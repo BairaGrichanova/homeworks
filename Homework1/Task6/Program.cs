@@ -1,2 +1,2 @@
-﻿Console.Write ("Введите любое число: ");
-double max = Convert.ToDouble (Console.ReadLine ());
+﻿Console.Write ("Введите любое число (если чило не целое - через запятую): ");
+double с = Convert.ToDouble (Console.ReadLine ());
