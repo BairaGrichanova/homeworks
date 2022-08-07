@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Write ("Введите целое число N: ");
+int num = Convert.ToInt32 (Console.ReadLine ());
