@@ -1,2 +1,11 @@
-﻿Console.Write ("Введите любое число (если чило не целое - через запятую): ");
-double с = Convert.ToDouble (Console.ReadLine ());
+﻿Console.Write ("Введите целое число: ");
+int num = Convert.ToInt32 (Console.ReadLine ());
+
+
+
+
+
+
+
+
+Console.Write (num);
