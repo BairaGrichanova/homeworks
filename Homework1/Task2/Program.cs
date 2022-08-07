@@ -3,6 +3,6 @@ int a = Convert.ToInt32(Console.ReadLine ());
 Console.Write ("Введите значение Б: ");
 int b = Convert.ToInt32(Console.ReadLine ());
 
-if (a>b) {}
-if (b>a) {}
-if (a=b) {}
+if (a>b) 
+if (a<b) 
+if (a==b) 
