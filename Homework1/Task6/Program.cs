@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Write ("Введите любое число: ");
+double max = Convert.ToDouble (Console.ReadLine ());
