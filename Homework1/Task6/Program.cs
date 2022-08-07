@@ -1,5 +1,6 @@
 ﻿Console.Write ("Введите целое число: ");
 int num = Convert.ToInt32 (Console.ReadLine ());
+int even = num%2;
 
 
 
@@ -7,5 +8,4 @@ int num = Convert.ToInt32 (Console.ReadLine ());
 
 
 
-
-Console.Write (num);
+Console.Write (even);
